@@ -1,0 +1,6 @@
+C:\Users\Pedro\Desktop\Sistema de Visitas\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Sistema de Visitas\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Sistema de Visitas\Database\bin\Debug\Database.dll
+C:\Users\Pedro\Desktop\Sistema de Visitas\Database\bin\Debug\Database.pdb
+C:\Users\Pedro\Desktop\Sistema de Visitas\Database\obj\Debug\Database.dll
+C:\Users\Pedro\Desktop\Sistema de Visitas\Database\obj\Debug\Database.pdb

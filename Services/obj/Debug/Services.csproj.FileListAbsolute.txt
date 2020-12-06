@@ -1,0 +1,11 @@
+C:\Users\Pedro\Desktop\Sistema de Visitas\Services\bin\Debug\Services.dll
+C:\Users\Pedro\Desktop\Sistema de Visitas\Services\bin\Debug\Services.pdb
+C:\Users\Pedro\Desktop\Sistema de Visitas\Services\bin\Debug\Database.dll
+C:\Users\Pedro\Desktop\Sistema de Visitas\Services\bin\Debug\Entities.dll
+C:\Users\Pedro\Desktop\Sistema de Visitas\Services\bin\Debug\Database.pdb
+C:\Users\Pedro\Desktop\Sistema de Visitas\Services\bin\Debug\Entities.pdb
+C:\Users\Pedro\Desktop\Sistema de Visitas\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Sistema de Visitas\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Sistema de Visitas\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\Pedro\Desktop\Sistema de Visitas\Services\obj\Debug\Services.dll
+C:\Users\Pedro\Desktop\Sistema de Visitas\Services\obj\Debug\Services.pdb
